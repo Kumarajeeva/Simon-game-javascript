@@ -1,4 +1,4 @@
-#Simon game using Javascript
+# Simon game using Javascript
 
 Check the deployed website in this URL:  https://kumarajeeva-simon-game.netlify.app
 
